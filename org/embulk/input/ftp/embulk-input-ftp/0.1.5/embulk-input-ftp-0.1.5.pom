@@ -10,7 +10,7 @@
       <groupId>org.embulk</groupId>
       <artifactId>embulk-core</artifactId>
       <version>0.7.0</version>
-      <scope>runtime</scope>
+      <scope>provided</scope>
     </dependency>
   </dependencies>
 </project>
